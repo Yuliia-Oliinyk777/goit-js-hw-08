@@ -1,8 +1,3 @@
-img {
-  display: block;
-  width: 360px;
-  height: 200px;
-}
 .container {
   max-width: 1440px;
   padding: 24px 156px;
@@ -24,4 +19,13 @@ img {
 .gallery-item:hover img {
   width: 376px;
   height: 208px;
+}
+.gallery-link {
+  display: block;
+  text-decoration: none;
+}
+.gallery-image {
+  display: block;
+  width: 360px;
+  height: 200px;
 }
