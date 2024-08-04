@@ -23,6 +23,8 @@
 .gallery-link {
   display: block;
   text-decoration: none;
+  width: 360px;
+  height: 200px;
 }
 .gallery-image {
   display: block;
